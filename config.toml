@@ -1,7 +1,6 @@
 baseURL = "https://daniellelizaromanoff.me/"
 languageCode = "en-us"
 title = "Danielle Liza Romanoff - Portfolio"
-theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
