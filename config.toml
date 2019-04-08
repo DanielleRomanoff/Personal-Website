@@ -93,13 +93,13 @@ disqusShortname = ""
       title = "Dog Bites - Nature vs. Nurture"
       subtitle = "Project and Article"
       image = "Akbash.jpg"
-      url = "blogs/aliquam"
+      url = "https://medium.com/@daniellelizaromanoff/dog-bites-breed-and-gender-348a21560a48"
 
     [[params.tiles.showcase]]
       title = "Fascinating Fractals"
       subtitle = "Project and Article"
       image = "timeclock_fractal.jpg"
-      url = "blogs/tempus"
+      url = "https://towardsdatascience.com/casm-fractals-2b9835f71c53"
 
     [[params.tiles.showcase]]
       title = "Magna"
