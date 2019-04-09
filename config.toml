@@ -110,17 +110,17 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "The Repellent Task of Debugging"
       subtitle = "A Lesson on Debugging"
-      image = "Bug_Error.png"
+      image = "Wisdom.jpg"
       url = "https://medium.com/@daniellelizaromanoff/the-repellent-task-of-debugging-501890059dd3"
 
     [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
+      title = "The Road to Data Science and Machine Learning"
+      subtitle = "A Logical Progression"
+      image = "Road.png"
+      url = "https://medium.com/datadriveninvestor/the-road-to-data-science-and-machine-learning-4e82d27fc7d3"
 
     [[params.tiles.showcase]]
-      title = "Etiam"
+      title = "The Road to Data Science and Machine Learning"
       subtitle = "Feugiat Amet Tempus"
       image = "pic06.jpg"
       url = "blogs/ipsum"
