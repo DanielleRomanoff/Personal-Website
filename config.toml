@@ -108,10 +108,10 @@ disqusShortname = ""
       url = "blogs/magna"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
+      title = "The Repellent Task of Debugging"
+      subtitle = "A Lesson on Debugging"
+      image = "Bug_Error.png"
+      url = "https://medium.com/@daniellelizaromanoff/the-repellent-task-of-debugging-501890059dd3"
 
     [[params.tiles.showcase]]
       title = "Consequat"
