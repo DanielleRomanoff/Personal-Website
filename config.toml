@@ -55,7 +55,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Resume"
-      url = "https://drive.google.com/drive/u/0/my-drive"
+      url = "https://drive.google.com/file/d/1SmQLDsTA2L686uLyAlVM5YxK3NLPuGhy/view?usp=sharing"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
