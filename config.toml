@@ -173,7 +173,7 @@ disqusShortname = ""
     email = "daniellelizaromanoff@gmail.com"
 
     [[params.contact.phone]]
-    title = "Phone"
+    title = ""
     phone = ""
 
     [[params.contact.address]]
