@@ -43,7 +43,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "About"
-      url = "banner"
+      url = "objective"
 
     [[params.navigation.links]]
       name = "Blogs"
@@ -55,7 +55,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Resume"
-      url = "elements"
+      url = "https://drive.google.com/drive/u/0/my-drive"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
