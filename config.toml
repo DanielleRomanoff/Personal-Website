@@ -80,7 +80,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Danielle Liza Romanoff"
-    subtitle = "A Portfolio Website."
+    subtitle = "A Portfolio Website"
     buttonText = "Articles and Projects"
 
 
@@ -120,7 +120,7 @@ disqusShortname = ""
       url = "https://medium.com/datadriveninvestor/the-road-to-data-science-and-machine-learning-4e82d27fc7d3"
 
     [[params.tiles.showcase]]
-      title = "The Road to Data Science and Machine Learning"
+      title = "Data Science and Machine Learning"
       subtitle = "Feugiat Amet Tempus"
       image = "pic06.jpg"
       url = "blogs/ipsum"
@@ -143,7 +143,7 @@ disqusShortname = ""
     Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
     Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
     buttonText = "Danielle's Causes and Interests"
-    url = "blogs"
+    url = "causesandinterests"
 
 
   # Contact section
